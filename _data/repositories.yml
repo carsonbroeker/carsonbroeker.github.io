@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - carsonbroeker
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - carsonbroeker/MMTV-Myc_Multi-Omic_Integration
+  - carsonbroeker/Extractive_Summarizer
+  - carsonbroeker/ML_BC_Subtype_Classification
+  - carsonbroeker/Metabric_App

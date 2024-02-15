@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Carson D. Broeker
+    - name: Citizenship
+      value: United States
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BSc in Biochemistry, Minor in Mathematics
+      institution: University of Missouri, Columbia
+      year: 2019
       description:
         - Description 1.
         - Description 2.

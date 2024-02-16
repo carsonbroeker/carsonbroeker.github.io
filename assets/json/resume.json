@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Carson D. Broeker",
-    "label": "Scientist",
+    "label": "Research Scientist",
     "image": "",
     "email": "cbroeker6@gmail.com",
     "phone": "",
     "url": "https://carsonbroeker.github.io/",
-    "summary": "Breast cancer researcher with a penchant for bioinformatics, data science, and machine learning",
+    "summary": "Oncology researcher with a penchant for bioinformatics, data science, and machine learning",
     "location": {
       "address": "",
       "postalCode": "",
@@ -26,13 +26,13 @@
     {
       "name": "Department of Biochemistry and Molecular Biology, Michigan State University",
       "position": "PhD Candidate",
-      "url": "",
+      "url": "https://bmb.natsci.msu.edu/",
       "startDate": "2019",
       "endDate": "Present",
       "summary": "Engaged in many different research project broadly relating to mouse models of breast cancer and their development, genomics of breast cancer models, and developing artificial intelligence models to study breast cancer",
       "highlights": [
         "Cell Culture",
-        "Murine Handling/Surgery",
+        "Murine Handling and Surgery",
         "Multi-Omics",
         "Bioinformatics",
         "Data Science",
@@ -42,17 +42,40 @@
     {
       "name": "AbbVie",
       "position": "Non-Regulated Bioanalysis PhD Intern",
-      "url": "",
+      "url": "https://www.abbvie.com/",
       "startDate": "2023-06-01",
       "endDate": "2023-09-01",
-      "summary": "Engaged in many different research project broadly relating to mouse models of breast cancer and their development, genomics of breast cancer models, and developing artificial intelligence models to study breast cancer",
+      "summary": "Created an autonomous centralized database for non-regulated bioanalysis method information, along with a machine learning pipeline for small molecule method prediction. Created a web application for querying database and method prediction information",
       "highlights": [
-        "Cell Culture",
-        "Murine Handling/Surgery",
-        "Multi-Omics",
-        "Bioinformatics",
+        "Python",
+        "Data Engineering",
         "Data Science",
-        "Machine Learning"
+        "Machine Learning",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Institute for Cyber-Enabled Research, Michigan State University",
+      "position": "Django Backend Developer Intern",
+      "url": "https://icer.msu.edu/",
+      "startDate": "2023-02-01",
+      "endDate": "2023-10-01",
+      "summary": "",
+      "highlights": [
+        "Django",
+        "Git"
+      ]
+    },
+    {
+      "name": "AbbVie",
+      "position": "Analyst Commodity",
+      "url": "https://www.abbvie.com/",
+      "startDate": "2023-10-01",
+      "endDate": "Present",
+      "summary": "Created an application for the automatic processing of mass spectrometry data identifying novel metabolites from animal specimens treated with small molecule pharmaceuticals. This application also matched MS1 peak data to MS2+ peak data to determine level of support across different fragmention ions. Created automated workflows for other small department needs",
+      "highlights": [
+        "Software Development",
+        "Data Science"
       ]
     }
   ],

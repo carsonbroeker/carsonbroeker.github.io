@@ -6,13 +6,13 @@
     "email": "cbroeker6@gmail.com",
     "phone": "",
     "url": "https://carsonbroeker.github.io/",
-    "summary": "Breast cancer researcher with a bent for bioinformatics, data science, and machine learning",
+    "summary": "Breast cancer researcher with a penchant for bioinformatics, data science, and machine learning",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "",
       "countryCode": "US",
-      "region": "California"
+      "region": "Michigan"
     },
     "profiles": [
       {
@@ -27,10 +27,33 @@
       "name": "Department of Biochemistry and Molecular Biology, Michigan State University",
       "position": "PhD Candidate",
       "url": "",
-      "startDate": "2019-08-01\n",
-      "endDate": "\nPresent",
-      "summary": "Actively engaged in many different research project broadly relating to mouse models of breast cancer and their development, genomics of breast cancer models, and developing artificial intelligence models to study breast cancer",
-      "highlights": ["Relativity"]
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "Engaged in many different research project broadly relating to mouse models of breast cancer and their development, genomics of breast cancer models, and developing artificial intelligence models to study breast cancer",
+      "highlights": [
+        "Cell Culture",
+        "Murine Handling/Surgery",
+        "Multi-Omics",
+        "Bioinformatics",
+        "Data Science",
+        "Machine Learning"
+      ]
+    }
+    {
+      "name": "AbbVie",
+      "position": "PhD Candidate",
+      "url": "",
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "Engaged in many different research project broadly relating to mouse models of breast cancer and their development, genomics of breast cancer models, and developing artificial intelligence models to study breast cancer",
+      "highlights": [
+        "Cell Culture",
+        "Murine Handling/Surgery",
+        "Multi-Omics",
+        "Bioinformatics",
+        "Data Science",
+        "Machine Learning"
+      ]
     }
   ],
   "education": [

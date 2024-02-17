@@ -56,10 +56,10 @@
     },
     {
       "name": "Institute for Cyber-Enabled Research, Michigan State University",
-      "position": "Django Backend Developer Intern",
+      "position": "Django Backend Developer PhD Intern",
       "url": "https://icer.msu.edu/",
-      "startDate": "2023-02-01",
-      "endDate": "2023-10-01",
+      "startDate": "2023",
+      "endDate": "2023",
       "summary": "",
       "highlights": [
         "Django",
@@ -77,28 +77,80 @@
         "Software Development",
         "Data Science"
       ]
+    },
+    {
+      "name": "Covid-19 Early Detection Program, Michigan State University",
+      "position": "Technician",
+      "url": "https://humanmedicine.msu.edu/news/archives/2021/2021-early-detection-program-team.html",
+      "startDate": "2020",
+      "endDate": "2022",
+      "summary": "Responsible for processing incoming spit samples with chemical stabilization, RNA extraction, and preparation for qRT-PCR",
+      "highlights": [
+        "CLIA Operations",
+        "Sterile Technique",
+        "Highthroughput Processing"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Michigan State University",
+      "location": "East Lansing, Michigan, USA",
+      "url": "https://msu.edu/",
+      "area": "Biochemistry and Molecular Biology",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2019",
+      "endDate": "Present",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": [
+        "Molecular Biology",
+        "Methods in Macromolecular Analysis and Synthesis",
+        "Protein Structure, Design, and Mechanisms",
+        "Metabolism Regulation and Signal Transduction",
+        "Cell Structure and Function",
+        "Foundations of Data Science",
+        "Applied Machine Learning",
+        "Bioinformatics in R",
+        "Drug Discovery and Medicinal Chemistry"
+      ]
+    },
+    {
+      "institution": "University of Missouri",
+      "location": "Columbia, Missouri, USA",
+      "url": "https://missouri.edu/",
+      "area": "Biochemistry",
+      "studyType": "BSc, Minor in Mathematics",
+      "startDate": "2015",
+      "endDate": "2019",
+      "score": "10",
+      "courses": [
+        "Chemistry I and II",
+        "Organic Chemistry I and II",
+        "Physical Chemistry I and II",
+        "Genetics",
+        "Biology",
+        "Cancer Biology",
+        "Biochemistry I and II",
+        "Physical Biochemistry",
+        "Calculus Based Physics I and II",
+        "Modern Physics",
+        "Math for Physical Chemistry",
+        "Calculus I, II, and III",
+        "Differential Equations",
+        "Mathematical Statistics",
+        "Discrete Math Structures",
+        "Microeconomics",
+        "Labs in Biology, Chemistry, Biochemistry, and Physics"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Ruth L. Kirschstein Predoctoral Individual National Research Service Award (F31)",
+      "date": "2023",
+      "awarder": "National Cancer Institute",
+      "url": "https://researchtraining.nih.gov/programs/fellowships/F31",
+      "summary": "The NCI Ruth L. Kirschstein NRSA for Individual Predoctoral Fellows (F31) Award supports promising doctoral candidates who will perform dissertation research and training for a PhD degree in a scientific health-related field relevant to the mission of the NCI during the tenure of the award."
     }
   ],
   "certificates": [

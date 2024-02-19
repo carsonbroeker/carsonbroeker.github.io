@@ -27,6 +27,6 @@ My thesis project is concerned with investigating the mechanisms of metastasis o
 2. Elucidate signaling pathways involved in patients with increased metastasis
 3. Find precision therapeutics to selectively target the amplification event
 
-Check out my <a href='https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-023-01723-3'>latest work</a> in using genomics and transcriptomics to interrogate the heterogeneity present in the MMTV-Myc mouse model of breast cancer.
+In addition to my academic experience, in the summer of 2023 I completed a PhD internship with <a href='https://www.abbvie.com/'>AbbVie</a> in their Non-Regulated Bioanalysis group. In my internship, I successfully created a centralized database for non-regulated small molecule mass spectrometry information and created a web application to view/download these data. Simultaneously, I incorporated machine learning and visualizations to inform method developers on best mass spectrometry methods to use based on a small molecule's structure. For my successful delivery and impact, I have been retained as a part time Analyst Commodity to work on various department projects.
 
 I will be graduating in 2025 and am currently open to employment opportunities in bioinformatics, data science, data engineering, and artificial intelligence. Don't hesitate to reach out or connect on LinkedIn!

@@ -70,8 +70,8 @@
       "name": "AbbVie",
       "position": "Analyst Commodity",
       "url": "https://www.abbvie.com/",
-      "startDate": "2023-10-01",
-      "endDate": "Present",
+      "startDate": "2023-10-01\n",
+      "endDate": "\nPresent",
       "summary": "Created an application for the automatic processing of mass spectrometry data identifying novel metabolites from animal specimens treated with small molecule pharmaceuticals. This application also matched MS1 peak data to MS2+ peak data to determine level of support across different fragmention ions. Created automated workflows for other small department needs",
       "highlights": [
         "Software Development",

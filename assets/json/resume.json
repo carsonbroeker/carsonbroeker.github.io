@@ -44,7 +44,6 @@
       "position": "Non-Regulated Bioanalysis PhD Intern",
       "url": "https://www.abbvie.com/",
       "startDate": "Summer 2023",
-      "endDate": "",
       "summary": "Created an autonomous centralized database for non-regulated bioanalysis method information, along with a machine learning pipeline for small molecule method prediction. Created a web application for querying database and method prediction information",
       "highlights": [
         "Python",

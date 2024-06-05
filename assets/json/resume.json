@@ -192,78 +192,99 @@
   ],
   "skills": [
     {
-      "name": "Biology",
+      "name": "General Progamming and App Development",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Cancer Biology",
-        "Mammary Gland Biology",
-        "Genetics and Genomics",
-        "Murine Biology",
-        "Cell and Molecular Biology"
+        "Python",
+        "R",
+        "Linux/Unix Systems",
+        "SQL/NoSQL",
+        "AWS Suite",
+        "High Performance Computing"
       ]
     },
     {
-      "name": "Biochemistry",
+      "name": "Software and Library Packages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Cancer Biochemistry",
-        "Molecular Structure and Function"
+        "Pandas",
+        "Numpy",
+        "Scipy",
+        "Seaborn",
+        "Matplotlib",
+        "Plotnine",
+        "SciKitLearn",
+        "TensorFlow",
+        "PyTorch",
+        "Apache Spark",
+        "NLTK",
+        "RDKit",
+        "Django",
+        "Shiny",
+        "Tidyverse",
+        "DESeq",
+        "Limma",
+        "Seurat",
+        "STAR",
+        "Salmon",
+        "Dplyr",
+        "ggplot2",
+        "LaTeX",
+        "Git",
+        "NCBI Suite",
+        "GSEA",
+        "IGV",
+        "UCSC Genome Browser",
+        "Imaris",
+        "ImageJ",
+        "GATK",
+        "SAMTools"
       ]
     },
     {
-      "name": "Chemistry",
+      "name": "Lab Techniques",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "General Chemistry",
-        "Organic Chemistry",
-        "Physical Chemistry"
+        "PCR",
+        "qRT-PCR",
+        "Genotyping",
+        "Western Blotting",
+        "Bacterial Cloning",
+        "Transformation",
+        "Primer and sgRNA Design",
+        "CRISPR/CRISPRi/CRISPRa",
+        "Lentivirus Production and Transduction",
+        "Aseptic Cell Culture",
+        "GLP",
+        "CLIA",
+        "Rodent Handling and Colony Management",
+        "Rodent Survival Surgery",
+        "Rodent Necropsy",
+        "Rodent Oral Gavage",
+        "Microscope Assisted Dissection",
+        "Confocal Microscopy"
       ]
     },
     {
-      "name": "Mathematics",
+      "name": "Soft Skills",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Calculus 1, 2, and 3",
-        "Differential Equations",
-        "Discrete Math"
-      ]
-    },
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "General Calculus Based Physics",
-        "Quantum Mechanics"
-      ]
-    },
-    {
-      "name": "Statistics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Biostatistics",
-        "Inferential Statistics",
-        "Mathematical Statistics"
-      ]
-    },
-    {
-      "name": "Data Science",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Machine Learning",
-        "Bioinformatics",
-        "Visualization",
-        "Data Engineering",
-        "Development Operations",
-        "Application Development",
-        "Cloud Operations",
-        "Version Control"
+        "Interpersonal Communication",
+        "Scientific Dissemination to Advanced and Lay Audiences",
+        "Interdisciplinary Knowledge",
+        "Punctual",
+        "Quickly Adaptable",
+        "Data Informed Decision Making",
+        "Detail to Big Picture Oriented",
+        "Able to Influence Key Decision Makers",
+        "Independent",
+        "Team Player",
+        "Intuitive Writing and Visualizations",
+        "Outcome Driven"
       ]
     }
   ],

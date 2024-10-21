@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Carson, a 5th year PhD candidate in the lab of <a href='https://cancer.msu.edu/faculty/andrechek-eran'>Eran Andrechek</a> at <a href='https://msu.edu/'>Michigan State University</a>. I utilize eukaryotic *in vitro* models and murine *in vivo* models to study breast cancer development and progression. Frequent methods I use to interrogate these models include genomics, transcriptomics, molecular biology, data science, and machine learning.
+Hello! I'm Carson, a 6th year PhD candidate in the lab of <a href='https://cancer.msu.edu/faculty/andrechek-eran'>Eran Andrechek</a> at <a href='https://msu.edu/'>Michigan State University</a>. I utilize eukaryotic *in vitro* models and murine *in vivo* models to study breast cancer development and progression. Frequent methods I use to interrogate these models include genomics, transcriptomics, molecular biology, data science, and machine learning.
 
 My thesis project is concerned with investigating the mechanisms of metastasis of a <a href='https://www.nature.com/articles/s41467-019-11236-3'>conserved human and murine genomic amplification event</a> that is present in 25% of HER2+ and 9% of all breast cancer patients. Patients that have this amplication event centered on chromosome 17q21.33 exhibit increased metastasis and worse overall survival. My project aims to:
 
@@ -29,4 +29,4 @@ My thesis project is concerned with investigating the mechanisms of metastasis o
 
 In addition to my academic experience, in the summer of 2023 I completed a PhD internship with <a href='https://www.abbvie.com/'>AbbVie</a> in their Non-Regulated Bioanalysis group. In my internship, I successfully created a centralized database for non-regulated small molecule mass spectrometry information and created a web application to view/download these data. Simultaneously, I incorporated machine learning and visualizations to inform method developers on best mass spectrometry methods to use based on a small molecule's structure. For my successful delivery and impact, I have been retained as a part time Analyst Commodity to work on various department projects.
 
-I will be graduating in 2025 and am currently open to employment opportunities in bioinformatics, data science, data engineering, and artificial intelligence. Don't hesitate to reach out or connect on LinkedIn!
+I will be graduating in December 2024 and am currently seeking employment opportunities in bioinformatics, data science, data engineering, and artificial intelligence. Don't hesitate to reach out or connect on LinkedIn!
